@@ -13,3 +13,28 @@ h1 {
     border-bottom: 2px dotted darkslateblue;
     padding-bottom: 5px;
 }
+
+#description {
+    color: firebrick;
+}
+
+#description p::first-letter {
+    font-size: 2rem;
+}
+
+#description a {
+    color: darkviolet;
+    text-decoration: underline;
+}
+
+.box {
+    border: #f00 10px ridge;
+    background-color: #ff0;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
+}
