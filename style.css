@@ -39,3 +39,31 @@ h1 {
     font-weight: bold;
     margin-top: 20px;
 }
+
+#attrction-box {
+    border: 2px dotted #483D8B;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 20px;
+    color: green;
+}
+
+h2 {
+    text-align: center;
+}
+
+ol {
+    font-family: Georgia, serif;
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.attraction {
+    color: tomato;
+    text-decoration: underline;
+    font-weight: bold;
+}
