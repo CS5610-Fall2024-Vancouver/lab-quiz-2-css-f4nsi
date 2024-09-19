@@ -40,7 +40,7 @@ h1 {
     margin-top: 20px;
 }
 
-#attrction-box {
+.attraction-box {
     border: 2px dotted #483D8B;
     border-radius: 10px;
     padding: 15px;
